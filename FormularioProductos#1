@@ -1,0 +1,58 @@
+<!DOCRYPE html>
+<html>
+<body>
+
+<tr>
+
+<table>
+<table border='1'>
+<form action="ejemplo.php" method="POST">
+<tr>
+<td></td>
+<td>Nombre</td>
+<td>Precio</td>
+<tr>
+
+<td>1</td>
+
+
+
+<td><input type="text" size="10" maxtength="10" 
+
+name "fresa" value="fresa"<br/></td>
+fresa
+<td><input type="text" size="10" maxtength="10" 
+
+name"50"<br/></td>
+<tr>
+<td>2</td>
+<td><input type="text" size="10" maxtength="10" 
+
+name"limon" value="limon"<br/></td>
+
+<td><input type="text" size="10" maxtength="10" 
+
+name"30"<br/></td>
+<tr>
+<td>3</td>
+<td><input type="text" size="10" maxtength="10" 
+
+name"naranja" value="naranja"<br/></td>
+
+<td><input type="text" size="10" maxtength="10" 
+
+id="naranja" name"80"<br/></td>
+
+</table>
+<tr>
+
+<input type="submit" value="Enviar">
+
+</form>
+</table>
+
+
+</body>
+</html>
+
+
