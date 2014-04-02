@@ -1,0 +1,21 @@
+<?php 
+
+$fresa = $_POST['fresa'];
+
+$limon = $_POST['limon'];
+
+$naranja= $_POST['naranja'];
+
+$media = ($fresa+$limon+$naranja)/3;
+
+</td>echo "<br/>   DATOS RECIBIDOS";
+
+echo "<br/>   Precio fresa: ". $fresa. " euros";
+
+echo "<br/>   Precio limon: ". $limon. " euros";
+
+echo "<br/>   Precio naranja: ". $naranja. " euros <br/>";
+
+echo "<br/>   El precio medio del producto es de ". $media. " precio";
+
+?>
